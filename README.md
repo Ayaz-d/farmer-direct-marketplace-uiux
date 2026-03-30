@@ -42,6 +42,8 @@ Profit loss page
 <img width="1919" height="877" alt="Screenshot 2026-03-30 170125" src="https://github.com/user-attachments/assets/2d3dcbfd-ace2-47be-9ab0-5340bf1d6d14" />
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-
+## Prototype link
+https://www.figma.com/design/6W9UX5UZzq79v0tm80ZIu8/Ayaz?node-id=0-1&t=umMBd6SzyKUV1iis-1
+https://www.figma.com/proto/6W9UX5UZzq79v0tm80ZIu8/Ayaz?node-id=0-1&t=umMBd6SzyKUV1iis-1
 ## 👤 Designed by
 Ayaz Gulagundi
